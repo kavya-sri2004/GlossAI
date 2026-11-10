@@ -1,0 +1,29 @@
+term,description,category
+Product URL,Web address of the product listing,Product
+Product Name,Name or title of the listed product,Product
+Product Rating,Average customer rating of a product,Product
+Review Count,Number of customer reviews for a product,Customer
+Original Product Price,Price before discounts,Finance
+Current Product Price,Price payable after discounts,Finance
+Currency,Currency used for product pricing,Finance
+Product Image URL,Web address of the product image,Product
+Seller Name,Name of the seller offering the product,Seller
+Product Category,Category or classification of a product,Product
+Product Specifications,Technical attributes and specifications of a product,Product
+Product Description,Description of the product and its features,Product
+Seller Rating,Rating assigned to a seller, Seller
+Seller Shipping Performance,Percentage of orders shipped on time,Seller
+Seller Chat Response Rate,Percentage of customer chats answered by a seller,Seller
+Stock Keeping Unit,Unique stock keeping identifier for a product,Inventory
+Manufacturer Part Number,Manufacturer assigned product part number,Inventory
+Product Colors,Available colors of a product,Product
+Product Variations,Available product variants such as size or color,Product
+Return and Warranty Policy,Conditions for product returns and warranty,Policy
+Super Seller Status,Indicates whether a seller has super seller status,Seller
+Promotions,Promotional offers associated with a product,Marketing
+Product Brand,Brand associated with a product,Product
+Product Variation,Specific selected product variation,Product
+LazMall Status,Indicates whether a product is listed under LazMall,Marketplace
+Marketplace Domain,Domain of the marketplace website,Marketplace
+Units Sold,Number of units sold,Sales
+Gross Merchandise Value,Total monetary value of merchandise sold,Finance
